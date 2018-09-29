@@ -1,3 +1,3 @@
-# kyoto-b-client
+# kyoto-b-clientのコピー
 
 サーバーサイドとHTTP通信をするSNS系Androidアプリのサンプル
